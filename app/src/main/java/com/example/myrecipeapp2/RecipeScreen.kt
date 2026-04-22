@@ -70,7 +70,7 @@ fun CategoryItem(category: Category) {
             text = category.strCategory,
             color = Color.Black,
             style = TextStyle(fontWeight = FontWeight.Bold),
-            modifier = Modifier.padding(top=4.dp),
+            modifier = Modifier.padding(top = 4.dp),
         )
     }
 }
